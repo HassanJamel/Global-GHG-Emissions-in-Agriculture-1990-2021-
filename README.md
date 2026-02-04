@@ -1,3 +1,10 @@
+
+<p align="center">
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/global-ghg-emissions-in-agriculture-1990-2021" target="_blank">
+    <img src="Gemini_Generated_Image_1rfso61rfso61rfs.png" alt="Generated" width="500">
+  </a>
+</p>
+
 # 🌍 Global Agricultural Greenhouse Gas Emissions
 
 ## Comprehensive EDA with Animated Visualizations (1990-2021)
@@ -130,3 +137,4 @@ This project is licensed under the MIT License.
 
 - **FAO** (Food and Agriculture Organization) for the dataset
 - **Plotly** & **Seaborn** for visualization libraries
+
